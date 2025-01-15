@@ -137,4 +137,4 @@
 ## 7. **Diagram Reference**  
 Below is a diagram illustrating the three-server web infrastructure:
 
-![Three-Server Web Infrastructure](1-distributed_web_infrastructure.png)
+![](1-distributed_web_infrastructure.png)

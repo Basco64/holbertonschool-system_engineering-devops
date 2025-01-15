@@ -135,4 +135,4 @@
 
    Below is a diagram illustrating the three-server web infrastructure:
 
-![Three-Server Web Infrastructure](2-secured_and_monitored_web_infrastructure.png)
+![](2-secured_and_monitored_web_infrastructure.png)

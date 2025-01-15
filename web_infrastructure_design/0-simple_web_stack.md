@@ -60,4 +60,4 @@ A single server limits the number of concurrent connections, potentially causing
 ## Diagram Reference
 Below is a diagram illustrating the simple web stack described above:
 
-![Simple Web Stack](0-simple_web_stack.png)
+![](0-simple_web_stack.png)
